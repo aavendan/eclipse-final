@@ -63,4 +63,6 @@ El formato se basa en [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), 
 
 ## [1.6.0] - 2026-04-15
 
+### Agregado
+
 - Para el selector por clase `.section`, define el espaciado general con 70px arriba y abajo, y 8% a los lados.
